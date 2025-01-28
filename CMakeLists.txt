@@ -1,3 +1,7 @@
+# This is a second no-op update for another test for pull mirroring on GitLab repo that is doing the automated pull mirroing from GitHub
+# What should happen is that a PR made to https://github.com/NOAA-EMC/gfs-utils should automaticlly show up on https://vlab.noaa.gov/gitlab-licenced/NWS/NCEP/EMC/EIB/gfs-utils
+
+
 cmake_minimum_required(VERSION 3.19)
 
 project(gfsutils
